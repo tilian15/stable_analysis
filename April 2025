@@ -1,0 +1,13 @@
+Files update - 08/25
+
+Initial attempt to model USDC prices on Binance using an ARMA model.
+
+Followed by an analysis using a GARCH model.
+
+First implementation of a machine learning regressor for price prediction and comparison.
+
+Beginning of deep learning (DL) regressor experiments.
+
+Use of a Kalman filter with a depeg detector and confidence interval.
+
+First implementation of a trading strategy.
